@@ -10,3 +10,5 @@ This will prompt the user for 3 inputs: route, stop and direction,
 unless the stop is at the end point of one of the routes,
 in which case it assumes the user is going the opposite direction and
 will only be prompted for route and stop.
+
+contact mjburton11@gmail.com with questions
