@@ -1,0 +1,42 @@
+Which route are you taking?
+Red Line
+Mattapan Trolley
+Orange Line
+Green Line B
+Green Line C
+Green Line D
+Green Line E
+Blue Line
+You entered: Red Line
+
+Which stop are you taking?
+Alewife
+Davis
+Porter
+Harvard
+Central
+Kendall/MIT
+Charles/MGH
+Park Street
+Downtown Crossing
+South Station
+Broadway
+Andrew
+JFK/UMass
+Savin Hill
+Fields Corner
+Shawmut
+Ashmont
+North Quincy
+Wollaston
+Quincy Center
+Quincy Adams
+Braintree
+You entered: Harvard
+
+Which direction are you taking?
+Ashmont/Braintree
+Alewife
+You entered: Alewife
+
+The next train from Harvard stop going to Alewife is departing at
